@@ -16,7 +16,7 @@ The Gaianet API Bot is a tool for automating queries to the GaiaNet AI API. User
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Pixmartz/Gaianet-API-Bot.git
+   git clone https://github.com/Ferdimanaaa/gaian-api-bot.git
    cd gaian-api-bot
    ```
 
